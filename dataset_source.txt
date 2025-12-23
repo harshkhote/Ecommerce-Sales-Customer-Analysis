@@ -1,0 +1,4 @@
+Dataset Source: Brazilian E-Commerce Public Dataset by Olist
+Platform: Kaggle
+Records: ~100k orders
+Tables Used: orders, customers, payments, order_items, products, sellers
